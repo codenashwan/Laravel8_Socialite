@@ -1,4 +1,4 @@
-# Laravel_Socialite_Google
+# Laravel8_Socialite
 
 ### Login with Laravel 8 and Socialite, Google & Facebook
 
